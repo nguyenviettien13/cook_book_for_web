@@ -70,13 +70,7 @@ typora-copy-images-to: image
 
 4. git architecture
 
-   ![](image/git_architecture.png)
+   <img src="image/git_architecture.png" alt="git architecture" style="zoom:150%;" />
 
 5. 
-
-
-
-
-
-
 
