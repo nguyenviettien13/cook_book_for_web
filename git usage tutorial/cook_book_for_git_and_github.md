@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: image
+---
+
 # <u>**What will we learn today**</u>
 
 1. ## Introduce version control, git and github 
@@ -66,7 +70,7 @@
 
 4. git architecture
 
-   ![](F:\docbymyself\cookbookgithub\cook_book_for_web\git usage tutorial\image\git_architecture.png)
+   ![](image/git_architecture.png)
 
 5. 
 
